@@ -12,7 +12,7 @@ Web App implemented using Spotify API and YouTube v3 Data API
 
 - After track selection, an embedded mini-player of the track's YouTube video is displayed
 
-### **Formspree API**
+## **Formspree API**
 
 - Contact Us submissions are handled by the API so that you can send us a message!
 
