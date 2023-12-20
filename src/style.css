@@ -1,0 +1,121 @@
+/* Universal styles */
+
+* {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  color: rgb(0, 0, 0);
+}
+
+body {
+  background: linear-gradient(0deg, rgb(0, 0, 0), 65%, rgb(112, 243, 112));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  overflow: auto;
+}
+
+/* Container specific style */
+
+.container {
+  background: inherit;
+  border-radius: 10px;
+  padding: 20px;
+  width: 100%;
+  max-width: 800px;
+  min-height: 100%;
+  padding-top: 39px;
+}
+
+#genreText,
+#playlistText {
+  text-align: center;
+}
+
+button#btn_submit {
+  text-align: center;
+}
+
+#btn_submit {
+  margin: 0 auto;
+}
+
+label {
+  padding-top: 5px;
+}
+
+.form-label {
+  padding-left: 0 !important;
+}
+
+.list-group.song-list {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.btn-success {
+  background-color: #3b7d4a !important;
+}
+
+.btn-success:hover {
+  background-color: #4daf64 !important;
+  opacity: 85%;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+img.track {
+  border: 1px solid #8a8a8a;
+}
+
+#song-detail {
+  color: white !important;
+  text-align: center;
+}
+
+.spotifyUrl {
+  color: #4daf64;
+  text-decoration: underline;
+}
+
+.spotifyUrl:hover {
+  color: #499a5c;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+}
+
+#youtubePlayer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Modal Styling */
+
+#submit {
+  background-color: #3b7d4a;
+  border: none;
+}
+
+#submit:hover {
+  background-color: #4daf64;
+  opacity: 85%;
+  border: none;
+}
