@@ -16,6 +16,10 @@ Web App implemented using Spotify API and YouTube v3 Data API
 
 - Contact Us submissions are handled by the API so that you can send us a message!
 
+## **Screenshots**
+
+![Alt text](image.png)
+
 ## **How to use**
 
 - Plug in your Spotify Client ID and Client Secret here:
