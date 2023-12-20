@@ -20,25 +20,19 @@ Submissions are handled using Formspree API
 
 - Plug in your Spotify Client ID and Client Secret here:
 
-'''js
-
+```js
 const clientId = YOUR_SPOTIFY_CLIENT_ID;
 const clientSecret = YOUR_SPOTIFY_CLIENT_SECRET;
-
-'''
+```
 
 - Plug in your YouTube API Key here:
 
-'''js
-
+```js
 const youtubeApiKey = YOUR_YOUTUBE_API_KEY;
-
-'''
+```
 
 - Lastly, You'll need a Formspree API Key to send us developers a message:
 
-'''html
-
-<form action="YOUR_FORMSPREE_API_KEY" method="POST">
-
-'''
+```html
+<form action="YOUR_FORMSPREE_API_KEY" method="POST"></form>
+```
