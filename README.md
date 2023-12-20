@@ -15,7 +15,7 @@ Web App implemented using Spotify API and YouTube v3 Data API
 
 ## **Formspree API**
 
-- Contact Us submissions are handled by the API so that you can send us a message!
+- Contact Us submissions are handled by the Formspree API so that you can send us a message!
 
 ## **Screenshots**
 
@@ -23,9 +23,7 @@ Web App implemented using Spotify API and YouTube v3 Data API
 
 ![Alt text](image-3.png)
 
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
+![Alt text](image-4.png)
 
 ## **How to use**
 
