@@ -46,4 +46,6 @@ const youtubeApiKey = YOUR_YOUTUBE_API_KEY;
 <form action="YOUR_FORMSPREE_API_KEY" method="POST"></form>
 ```
 
+- After you've put in your API keys, launch up a live server from VSCode and discover new music!
+
 ### **Made by Nick, Jerry, Conlan and Abhijay**
