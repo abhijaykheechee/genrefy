@@ -11,7 +11,7 @@ Web App implemented using Spotify API and YouTube v3 Data API
 ## **YouTube Data v3 API**
 
 - After track selection, an embedded mini-player of the track's YouTube video is displayed
-- **NOTE:** The video shows up as unavailable if the owner disabled embed settings during the upload process
+- **NOTE:** The video may show up as unavailable if the owner disabled embed settings during the upload process
 
 ## **Formspree API**
 
