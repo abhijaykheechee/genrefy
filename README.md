@@ -19,11 +19,11 @@ Web App implemented using Spotify API and YouTube v3 Data API
 
 ## **Screenshots**
 
-![Alt text](image.png)
+![![Alt text](image.png)](res/image-3.png)
 
-![Alt text](image-3.png)
+![![Alt text](image-3.png)](res/image-4.png)
 
-![Alt text](image-4.png)
+![![Alt text](image-4.png)](res/image.png)
 
 ## **How to use**
 
